@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.image("imagen2.jpg")
 st.title("🧪 Calculadora de Leyes de los Gases")
 st.markdown("Selecciona una ley para calcular la variable que falta:")
 
